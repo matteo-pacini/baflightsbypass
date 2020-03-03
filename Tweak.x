@@ -20,5 +20,4 @@ int new_sub_10002e724() {
 	MSHookFunction((void *)ptr,
 				   (void *)new_sub_10002e724,
 				   (void **)&sub_10002e724);
-
 }

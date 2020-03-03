@@ -1,5 +1,7 @@
 INSTALL_TARGET_PROCESSES = BAFlights
 
+TARGET = iphone:latest:13.0:13.3
+ARCHS = arm64 arm64e
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = baflightsbypass
