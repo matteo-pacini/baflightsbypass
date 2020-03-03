@@ -1,0 +1,9 @@
+Package: it.zi0p4tch0.baflightsbypass
+Name: baflightsbypass
+Depends: mobilesubstrate
+Version: 5.66
+Architecture: iphoneos-arm
+Description: A jailbreak detection bypass for the British Airways app.
+Maintainer: Matteo Pacini
+Author: Matteo Pacini
+Section: Tweaks
